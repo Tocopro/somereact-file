@@ -27,7 +27,7 @@ const Footer = () => {
             sx={{ fontSize: 50 }}
             onClick={(event) =>
               (window.location.href =
-                "https://www.linkedin.com/in/ryan-messett/")
+                "https://www.linkedin.com/in/Nicholas Wachira/")
             }
           />
           <GitHubIcon
@@ -35,7 +35,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "https://github.com/rmessett15")
+              (window.location.href = "https://github.com/Tocopro")
             }
           />
           <TwitterIcon
@@ -43,7 +43,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "https://twitter.com/rmessett15")
+              (window.location.href = "https://twitter.com/NicholasWa78446")
             }
           />
           <EmailIcon
@@ -51,7 +51,7 @@ const Footer = () => {
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
-              (window.location.href = "mailto:rmessett15@gmail.com")
+              (window.location.href = "mailto:nicwac200g@gmail.com")
             }
           />
         </Grid>

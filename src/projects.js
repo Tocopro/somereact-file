@@ -2,66 +2,66 @@
 
 export const projects = [
   {
-    projectTitle: "Dude Where's My Show",
+    projectTitle: "NoSQL-Social-Network-API",
     description:
-      "A client-side web application for searching the streaming availability of movies and tv shows. Find your next show here!",
+      "A social network API using a NOSQL database, so the website can handle large amount of unstructured data",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/249894349-0480baf8-f6cf-454a-9267-abb883327ba1.png",
-    liveLink: "https://eeast.github.io/Dude-Wheres-My-Show/",
-    gitHub: "https://github.com/rmessett15/Dude-Wheres-My-Show",
+      "https://github.com/Tocopro/NOSQLSocialNetworkAPI/blob/main/GET%20ALL%20Thoughts.png",
+    liveLink: "Code Editor of your choice NPM install npm start",
+    gitHub: "https://github.com/Tocopro/NOSQLSocialNetworkAPI#Project-Links",
   },
   {
-    projectTitle: "Fusion Fables",
+    projectTitle: "The Tech Blog",
     description:
-      "A full-stack web application established for writers to come together to harness the fusion of collaboration and community.",
+      "An app that users/develoopers can post and see other users posts.",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/250159501-c9b19908-7e37-480b-8126-3379d303a4ad.png",
-    liveLink: "http://www.fusionfables.com/",
-    gitHub: "https://github.com/rmessett15/Fusion-Fables",
+      "https://github.com/Tocopro/mvcBlog/blob/main/techBlog.png",
+    liveLink: "https://mvcapplication-8d6b5f3a3222.herokuapp.com/",
+    gitHub: "https://github.com/Tocopro/mvcBlog",
   },
   {
-    projectTitle: "Tech Blog",
+    projectTitle: "Employee tracker",
     description:
-      "A full-stack web application where users can come create and interact with content related to tech.",
+      "This project is an employee tracker, CRUD application, using Nodejs. Questions are prompted in the CLI and the user's answers will modify the database.",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/250159643-a51d0557-0f08-4826-a0f0-f8d802408584.png",
-    liveLink: "https://mvc-tech-blog15.herokuapp.com/",
-    gitHub: "https://github.com/rmessett15/MVC-Tech-Blog",
+      "https://github.com/Tocopro/modeule12employeetracker/blob/main/module12_employeeTracker.png",
+    liveLink: "code editor of your choice run npm install then enter mysql -u root -p to run the program node index.js",
+    gitHub: "https://github.com/Tocopro/modeule12employeetracker/blob/main/module12_employeeTracker.png",
   },
   {
-    projectTitle: "Code Quiz",
+    projectTitle: "Note Taker",
     description:
-      "A simple web-application where users can come test their knowledge about coding. Find out if you're up to the test.",
+      "An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/250159663-da19d91f-765b-460f-ba19-811feb8b94d6.png",
-    liveLink: "https://rmessett15.github.io/Coding-Quiz/",
-    gitHub: "https://github.com/rmessett15/Coding-Quiz",
+      "https://github.com/Tocopro/Project11Deploy/blob/main/public/assets/img/noteTakerpage1.png",
+    liveLink: "https://notetakerproject23-ff75b9911d1e.herokuapp.com/",
+    gitHub: "https://github.com/Tocopro/Project11Deploy",
   },
   {
     projectTitle: "Weather Dashboard",
     description:
       "Using third-party and server-side apis to bring clients live weather updates and future forecasts from anywhere in the world.",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/250159688-6d04a5b7-fe26-4dae-9380-dfa29258e05a.png",
-    liveLink: "https://rmessett15.github.io/Weather-Dashboard/",
-    gitHub: "https://github.com/rmessett15/Weather-Dashboard",
+      "https://github.com/Tocopro/Weather_App_Project/blob/main/image.png",
+    liveLink: "https://tocopro.github.io/Weather_App_Project/",
+    gitHub: "https://github.com/Tocopro/Weather_App_Project",
   },
   {
-    projectTitle: "My First Website",
+    projectTitle: "Rock-Paper-Scissors",
     description:
-      "The first website I designed and deployed to the worldwide web. My web development journey started right here!",
+      "Creating a website for the Rock Paper Scissors Game",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/250159711-eb5907ee-46ca-4291-8a3d-89e8dd43df4f.png",
-    liveLink: "https://rmessett15.github.io/My-First-Website/",
-    gitHub: "https://github.com/rmessett15/My-First-Website",
+      "https://github.com/Tocopro/RPS_game/blob/main/rockpaperscissorspng.png",
+    liveLink: "https://tocopro.github.io/RPS_game/",
+    gitHub: "https://github.com/Tocopro/RPS_game/blob/main/rockpaperscissorspng.png",
   },
   {
-    projectTitle: "Schedaddy",
+    projectTitle: "Password-Generator",
     description:
-      "Your company's ultimate solution for modern employee scheduling. A full stack MERN application.",
+      "An App created for the user to generate user password that fulfill all the requirements, uppercase, lowercase, special charracters, digits",
     imageLink:
-      "https://user-images.githubusercontent.com/120127903/256081146-e641ae45-88a0-404d-bed1-a8badc0f7637.png",
-    liveLink: "https://schedaddy-0dffdc6ab2cd.herokuapp.com/",
-    gitHub: "https://github.com/cmcnamara15/Schedaddy",
+      "https://github.com/Tocopro/password-generation/blob/main/image.png",
+    liveLink: "https://tocopro.github.io/password-generation/",
+    gitHub: "https://github.com/Tocopro/password-generation",
   },
 ];
