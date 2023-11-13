@@ -26,26 +26,25 @@ export default function About() {
       <div style={{ width: "70%", margin: "0 auto" }}>
         <h1 id="about-me-title">About Me</h1>
         <p id="p-about">
-          Hello! I'm a full stack software developer with a unique background in
-          geology, finance, and the service industry. I bring a diverse skill
-          set and a passion for pushing boundaries both in my professional and
+          I'm currently a  full stack software developer student with a  background in
+          HealthCare. I bring a diverse skill set and a passion for pushing boundaries both in my professional and
           personal life.
         </p>
         <p id="p-about">
-          With a degree in geology, I have a strong foundation in analytical
+           I have a strong foundation in analytical
           thinking, problem-solving, and attention to detail. My experience in
-          finance has honed my ability to handle complex data and make informed
+          Healthcare has honed my ability to handle complex data and make informed
           decisions. Additionally, my time in the service industry has taught me
           the importance of effective communication and delivering exceptional
           customer experiences.{" "}
         </p>
         <p id="p-about">
-          Outside of the software development world, I find great joy in
-          adrenaline-seeking activities that push my limits. Whether it's rock
-          climbing, skiing, scuba diving, or skydiving, I thrive on the
+          Outside of the FullStack Developer Bootcamp world, I find great joy in
+           activities that push my limits. Whether it's rock
+          climbing, skiing, Hiking mountains. I thrive on the
           excitement and challenges they present. This mindset of constantly
           seeking new experiences translates into my approach to problem-solving
-          and innovation in the tech field.
+          and innovation in the Healthcare field.
         </p>
         <p id="p-about">
           As a travel enthusiast, I am always eager to explore new places and

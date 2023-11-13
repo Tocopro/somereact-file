@@ -58,28 +58,7 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
       </li>
     </ul>
 
-    // Below is an in progress new navbar -> the code below gives functionality to the nav links/buttons
-
-    // <Box
-    //   sx={{
-    //     flexGrow: 1,
-    //     display: { xs: "none", md: "flex" },
-    //     justifyContent: { md: "end" },
-    //   }}
-    // >
-    //   {pages.map((page) => (
-    //     <Button
-    //       key={page}
-    //       onClick={() => {
-    //         setCurrentPage(page);
-    //         handleCloseNavMenu();
-    //       }}
-    //       sx={{ my: 2, color: "#EBDFCC", display: "block" }}
-    //     >
-    //       {page}
-    //     </Button>
-    //   ))}
-    // </Box>
+ 
   );
 }
 

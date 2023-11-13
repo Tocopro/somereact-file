@@ -4,7 +4,7 @@ import React from "react";
 // import resume2 from "../../../images/resume2.png";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import PdfFile from "../../../Resumé.pdf";
+import PdfFile from "../../../ProgrammingResume2022(1).docx";
 import "./Resume.css";
 
 // Function that renders the downloadable resume, proficiencies & exports
@@ -14,7 +14,7 @@ export default function Resume() {
       <div>
         <a
           href={PdfFile}
-          download="Ryan Messett Resumé"
+          download="Nicholas Wachira Resume"
           target="_blank"
           style={{
             display: "flex",
@@ -80,33 +80,6 @@ export default function Resume() {
       </div>
     </Box>
 
-    // Below is another possible way of rendering my resume using screenshot images which I may choose to implement in the future
-
-    // <Box sx={{ flexGrow: 1 }}>
-    //   <div>
-    //     <h1 style={{display: 'flex', justifyContent: 'center'}}>My Resume</h1>
-    //     <img
-    //       src={resume1}
-    //       alt="Resume"
-    //       style={{
-    //         width: "-webkit-fill-available",
-    //         height: "auto",
-    //         paddingLeft: "350px",
-    //         paddingRight: "350px",
-    //       }}
-    //     />
-    //     <br></br>
-    //     <img
-    //       src={resume2}
-    //       alt="Resume"
-    //       style={{
-    //         width: "-webkit-fill-available",
-    //         height: "auto",
-    //         paddingLeft: "350px",
-    //         paddingRight: "350px",
-    //       }}
-    //     />
-    //   </div>
-    // </Box>
+    
   );
 }
