@@ -9,14 +9,10 @@ import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { projects } from "../../../projects";
-import { useEffect } from "react";
+
 
 // Function that renders the portfolio cards, grid, buttons & exports
-export function Project({ project }) {
-  const fn = () => {
-    console.log(project);
-  };
-  useEffect(fn, []);
+export function Project({ project }) { 
   return (
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
       <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
