@@ -15,12 +15,12 @@
 #nav-link.active {
   color: #1adbab;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 #nav-link {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 @media (max-width: 589px) {

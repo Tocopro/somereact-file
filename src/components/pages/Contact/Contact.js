@@ -1,6 +1,6 @@
 // Imports
 import React, { useState } from "react";
-import { TextField, dividerClasses } from "@mui/material";
+import { TextField } from "@mui/material";
 import { Button, MenuItem } from "@mui/material";
 import Stack from "@mui/material/Stack";
 import "./Contact.css";
@@ -41,7 +41,7 @@ export default function Contact() {
           `Please enter a valid email address. This field is required.`
         );
       }
-      const pattern = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
+      const pattern = /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/;
       console.log(!pattern.test(value));
       if (!pattern.test(value)) {
         setErrorMessage(`Please enter a valid email`);
