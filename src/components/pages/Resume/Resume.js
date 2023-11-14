@@ -4,7 +4,7 @@ import React from "react";
 // import resume2 from "../../../images/resume2.png";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import PdfFile from "../../../ProgrammingResume2022(1).docx";
+import PdfFile from "../../../Resume.pdf";
 import "./Resume.css";
 
 // Function that renders the downloadable resume, proficiencies & exports
