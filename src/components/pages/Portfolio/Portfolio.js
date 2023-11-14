@@ -24,6 +24,7 @@ export function Project({ project }) {
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
             {project.projectTitle}
+           
           </Typography>
           <Typography variant="body2" color="text.secondary">
             {project.description}

@@ -5,7 +5,7 @@ export const projects = [
     projectTitle: "NoSQL-Social-Network-API",
     description:
       "A social network API using a NOSQL database, so the website can handle large amount of unstructured data",
-    imageLink:  "insomnia.png",
+    imageLink:  "",
     liveLink: "Code Editor of your choice NPM install npm start",
     gitHub: "https://github.com/Tocopro/NOSQLSocialNetworkAPI#Project-Links",
   },
